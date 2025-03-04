@@ -7,7 +7,7 @@ public class JavaLibs {
         System.out.println(x +" is so cool!");
         System.out.println("Hooray " +x +"!");
         System.out.println("Please enjoy " +x +" Appreciation "
-                + "Day! My name is " +x +". I know how excited "
+                + "Day! My name is Coreye" +x +". I know how excited "
                 + "everyone is to start appreciating " +x +" on " +x
                 + " Appreciation Day! " +x +", " +x +", " +x +"! Yay "
                 + x +"!!! That's me! " +x +" is the best date ever!");
